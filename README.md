@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Je me nomme **k x2z h**, j'ai 16 ans et je suis développeur Java :)
+Je me nomme **k x2z h**, j'ai 17 ans et je suis développeur Java :)
 
 - 🔭 Je travail actuellement sur aucun réel projet en dehors des miens.
 - ♾️ J'ai commencé à apprendre le Java à l'âge de mes 13 ans étant très curieux !
