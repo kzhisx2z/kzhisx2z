@@ -1,1 +1,1 @@
-18 yo
+> Full Stack Web Developer 
